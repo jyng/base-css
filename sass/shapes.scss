@@ -50,6 +50,26 @@
   border-color: $green;
 }
 
+.circle-gray {
+  background-color: $gray;
+  border-color: $gray;
+}
+
+.circle-gray-light {
+  background-color: $gray-light;
+  border-color: $gray-light;
+}
+
+.circle-gray-lighter {
+  background-color: $gray-lighter;
+  border-color: $gray-lighter;
+}
+
+.circle-gray-dark {
+  background-color: $gray-dark;
+  border-color: $gray-dark;
+}
+
 .circle-pill {
   border-radius: 9999px;
   width: 10rem;

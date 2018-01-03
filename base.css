@@ -1187,6 +1187,22 @@ input[type="text"] {
   background-color: #6FDC74;
   border-color: #6FDC74; }
 
+.circle-gray {
+  background-color: #5B5B5B;
+  border-color: #5B5B5B; }
+
+.circle-gray-light {
+  background-color: #D4D4D4;
+  border-color: #D4D4D4; }
+
+.circle-gray-lighter {
+  background-color: #f1f1f1;
+  border-color: #f1f1f1; }
+
+.circle-gray-dark {
+  background-color: #373A3C;
+  border-color: #373A3C; }
+
 .circle-pill {
   border-radius: 9999px;
   width: 10rem; }
