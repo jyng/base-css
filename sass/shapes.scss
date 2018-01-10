@@ -4,7 +4,7 @@
   Shapes
 **********************/
 
-.circle {
+.shape {
   display: inline-block;
   padding: 2rem;
   border-radius: 50%;
@@ -13,69 +13,69 @@
   text-align: center;
 }
 
-.circle-sm {
+.shape-sm {
   padding: 1rem;
 }
 
-.circle-lg {
+.shape-lg {
   padding: 4rem;
 }
 
-.circle-fill {
+.shape-fill {
   background-color: black;
 }
 
-.circle-red {
+.shape-red {
   background-color: $red;
   border-color: $red;
 }
 
-.circle-blue {
+.shape-blue {
   background-color: $blue;
   border-color: $blue;
 }
 
-.circle-blue-light {
+.shape-blue-light {
   background-color: $blue-light;
   border-color: $blue-light;
 }
 
-.circle-yellow {
+.shape-yellow {
   background-color: $yellow;
   border-color: $yellow;
 }
 
-.circle-green {
+.shape-green {
   background-color: $green;
   border-color: $green;
 }
 
-.circle-gray {
+.shape-gray {
   background-color: $gray;
   border-color: $gray;
 }
 
-.circle-gray-light {
+.shape-gray-light {
   background-color: $gray-light;
   border-color: $gray-light;
 }
 
-.circle-gray-lighter {
+.shape-gray-lighter {
   background-color: $gray-lighter;
   border-color: $gray-lighter;
 }
 
-.circle-gray-dark {
+.shape-gray-dark {
   background-color: $gray-dark;
   border-color: $gray-dark;
 }
 
-.circle-pill {
+.shape-pill {
   border-radius: 9999px;
   width: 10rem;
 }
 
-.circle-pill.circle-lg {
+.shape-pill.shape-lg {
   width: 20rem;
 }
 
@@ -97,11 +97,6 @@
 
 .square-fill {
   background-color: black;
-}
-
-.square-red {
-  background-color: red;
-  border-color: red;
 }
 
 .square-rect {
